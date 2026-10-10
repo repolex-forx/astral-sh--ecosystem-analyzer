@@ -1,0 +1,7 @@
+[2026-10-10T04:29:55Z] === AST ITERATION 1 START | repo=astral-sh/ecosystem-analyzer sha=5fa06d20 ===
+[2026-10-10T04:29:55Z] [iter=1] PHASE START: ast repo=astral-sh/ecosystem-analyzer sha=5fa06d20
+[2026-10-10T04:29:55Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T04:30:28Z] [iter=1] AST chunks built count=1 triples=407716
+[2026-10-10T04:30:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5fa06d2043c3f7a95a808bc0df87ac9bb82c8e15/.complete
+[2026-10-10T04:30:28Z] [iter=1] PHASE END: ast elapsed_s=33 elapsed_min=0.6
+[2026-10-10T04:30:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

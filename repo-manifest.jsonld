@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astral-sh/ecosystem-analyzer/commit/5fa06d2043c3f7a95a808bc0df87ac9bb82c8e15",
       "git:hexsha": "5fa06d2043c3f7a95a808bc0df87ac9bb82c8e15",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
